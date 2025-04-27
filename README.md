@@ -62,13 +62,7 @@ The system setup is illustrated in the `circuit.pdf` file.
 | `TEAM_VIPER_WORKING_MODEL.pdf` | Detailed project report |
 | `WhatsApp Images/` | Project hardware and setup images |
 
-## 📸 Project Preview
 
-
-
-Example:
-
-![Project Setup Preview](link-to-your-image-if-hosted)
 
 ## 📚 Resources
 
